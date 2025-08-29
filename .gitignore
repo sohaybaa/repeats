@@ -1,0 +1,17 @@
+# virtualenvs
+venv/
+env/
+
+# python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# django artifacts
+*.sqlite3
+media/
+staticfiles/
+
+# secrets / env files
+.env
